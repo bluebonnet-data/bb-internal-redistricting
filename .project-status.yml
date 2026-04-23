@@ -1,17 +1,17 @@
 project:
-  name: ""
-  description: ""
+  name: Joe Mayes
+  description: ''
   tools: []
-  current_focus: ""
+  current_focus: ''
   needs: []
   links:
-    docs: ""
-    staging: ""
-    production: ""
+    docs: ''
+    staging: ''
+    production: ''
   team:
-    lead: ""
+    lead: ''
     contributors: []
   campaign:
-    candidate: ""
-    office: ""
+    candidate: Joe Mayes
+    office: Texas State House District 106
   auto_refresh: true
